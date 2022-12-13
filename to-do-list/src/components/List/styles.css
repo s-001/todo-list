@@ -1,0 +1,41 @@
+.empty-list {
+    display: flex;
+    /*justify-content: center;*/
+    flex-direction: column;
+}
+
+.empty-list > span {
+    width: 484px;
+    height: 36px;
+    left: 478px;
+    top: 448px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 36px;
+
+    letter-spacing: 0.2px;
+    text-transform: capitalize;
+
+    color: #ACACAC;
+}
+
+.empty-list > h2 {
+    width: 631px;
+    height: 54px;
+    left: 389px;
+    top: 484px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 36px;
+    line-height: 54px;
+
+    letter-spacing: 0.002em;
+    text-transform: capitalize;
+
+    color: #666666;
+}

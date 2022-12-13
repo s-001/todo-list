@@ -1,0 +1,16 @@
+.input {
+    box-sizing: border-box;
+}
+.input{
+    Width: 954px;
+    Height: 52px;
+    Radius: 4px;
+    left: 0%;
+    right: 0%;
+    top: 0%;
+    bottom: 0%;
+}
+.input{
+    border: 1px solid #FFCD04;
+    border-radius: 4px;
+}

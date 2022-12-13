@@ -1,0 +1,21 @@
+.button {
+    left: 0%;
+    right: 0%;
+    top: 0%;
+    bottom: 0%;
+}
+
+.button {
+    box-sizing: border-box;
+}
+
+.button {
+    background: #008594;
+    border-radius: 4px;
+}
+
+.button {
+    Width: 100px;
+    Height: 52px;
+    Radius: 4px;
+}
